@@ -4,6 +4,6 @@
 ## Code Review
 Original Artifacts:
 
-*Embedded Smart Thermostat
-*Course Planner
+* Embedded Smart Thermostat
+* Course Planner
 ## Enhancements
