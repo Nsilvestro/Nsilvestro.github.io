@@ -1,5 +1,9 @@
 # Portfolio
-> This portfolio was created for CS-499, but additionally serves as an exemplar of relevant strengths and skills garnered from the entirety of the Computer Science program. 
+> This portfolio was created for CS-499, but additionally serves as an exemplar of relevant strengths and skills garnered from the entirety of the Computer Science program.
+## Table of Contents
+* [Self Assessment]()
+* [Code Review]()
+* [Enhancements]()
 ## Self Assessment
 - [x] Collaborating in a team enviroment
 - [x] Communicating with stakeholders
@@ -15,7 +19,7 @@ Original Artifacts:
 
 Included in the portfolio is a recorded code review. The review for each artifact includes a walkthrough of existing functionality, an analysis of the code, as well as identification of areas for enhancements. The artifacts listed above are the ones detailed in the code review video.
 
-A transcript of the video review can be found [here.](Nsilvestro.github.io/Code Review Script.pdf)
+A transcript of the video review can be found under the file titled code review script. 
 
 ## Enhancements
 Narratives are included for each category of enhancment. The narratives focus on a description of each artifact, a justification on the inclusion of each artifact, and a reflection on the enhancement process. 
