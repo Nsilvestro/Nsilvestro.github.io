@@ -1,4 +1,5 @@
 # Portfolio
+> This portfolio was created for CS-499, but additionally serves as an exemplar of relevant strengths and skills garnered from the entirety of the Computer Science program. 
 ## Self Assessment
 - [x] Collaborating in a team enviroment
 - [x] Communicating with stakeholders
