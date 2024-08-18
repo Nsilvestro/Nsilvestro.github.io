@@ -9,10 +9,12 @@ Original Artifacts:
 The above artifacts are the ones detailed in the code review video. 
 ## Enhancements
 ### Software Design & Engineering
-1. [Embedded Smart Thermostat Enhancement](https://github.com/Nsilvestro/Nsilvestro.github.io/tree/main/Artifact%20One%20Enhancement/gpiointerrupt_CC3220SF_LAUNCHXL_nortos_gcc)
-### Algorithms & Data Structures
-2. [Course Planner Enhancement One](https://github.com/Nsilvestro/Nsilvestro.github.io/tree/main/Artifact%20Two%20Enhancement%20One/CoursePlannerEnhancement.1)
-### Databases
-3. [Course Planner Enhancement Two](https://github.com/Nsilvestro/Nsilvestro.github.io/tree/main/Artifact%20Two%20Enhancement%20Two/CoursePlannerEnhancement.2)
+* [Embedded Smart Thermostat Enhancement](https://github.com/Nsilvestro/Nsilvestro.github.io/tree/main/Artifact%20One%20Enhancement/gpiointerrupt_CC3220SF_LAUNCHXL_nortos_gcc)
 
-The above links will navigate to each category's enhancement.
+The associated narrative for this enhancement can be found [here]()
+### Algorithms & Data Structures
+* [Course Planner Enhancement One](https://github.com/Nsilvestro/Nsilvestro.github.io/tree/main/Artifact%20Two%20Enhancement%20One/CoursePlannerEnhancement.1)
+The associated narrative for this enhancement can be found [here]()
+### Databases
+* [Course Planner Enhancement Two](https://github.com/Nsilvestro/Nsilvestro.github.io/tree/main/Artifact%20Two%20Enhancement%20Two/CoursePlannerEnhancement.2)
+The associated narrative for this enhancement can be found [here]()
