@@ -1,9 +1,9 @@
 # Portfolio
 > This portfolio was created for CS-499, but additionally serves as an exemplar of relevant strengths and skills garnered from the entirety of the Computer Science program.
 ## Table of Contents
-* [Self Assessment]()
-* [Code Review]()
-* [Enhancements]()
+* [Self Assessment](https://github.com/Nsilvestro/Nsilvestro.github.io/blob/main/README.md#self-assessment)
+* [Code Review](https://github.com/Nsilvestro/Nsilvestro.github.io/blob/main/README.md#code-review)
+* [Enhancements](https://github.com/Nsilvestro/Nsilvestro.github.io/blob/main/README.md#enhancements)
 ## Self Assessment
 - [x] Collaborating in a team enviroment
 - [x] Communicating with stakeholders
