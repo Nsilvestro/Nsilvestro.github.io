@@ -12,9 +12,11 @@ Original Artifacts:
 1. [Embedded Smart Thermostat](https://github.com/Nsilvestro/Nsilvestro.github.io/tree/main/Original%20Artifacts/Artifact%20One/gpiointerrupt_CC3220SF_LAUNCHXL_nortos_gcc)
 2. [Course Planner](https://github.com/Nsilvestro/Nsilvestro.github.io/tree/main/Original%20Artifacts/Artifact%20Two/CoursePlanner)
 
-Included in the portfolio is a recorded code review. The review for each artifact includes a walkthrough of existing functionality, an analysis of the code, as well as identification of areas for enhancements. The artifacts listed above are the ones detailed in the code review video. 
+Included in the portfolio is a recorded code review. The review for each artifact includes a walkthrough of existing functionality, an analysis of the code, as well as identification of areas for enhancements. The artifacts listed above are the ones detailed in the code review video.
+
+A transcript of the video review can be found [here.]()
 ## Enhancements
-Narratives are included for each category of enhancment. The narratives focus on a description of each artificat, a justification on the inclusion of each artifact, and a reflection on the enhancement process. 
+Narratives are included for each category of enhancment. The narratives focus on a description of each artifact, a justification on the inclusion of each artifact, and a reflection on the enhancement process. 
 ### Software Design & Engineering
 * [Embedded Smart Thermostat Enhancement](https://github.com/Nsilvestro/Nsilvestro.github.io/tree/main/Artifact%20One%20Enhancement/gpiointerrupt_CC3220SF_LAUNCHXL_nortos_gcc)
 
