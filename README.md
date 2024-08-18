@@ -1,5 +1,10 @@
 # Portfolio
 ## Self Assessment
+- [x] Collaborating in a team enviroment
+- [x] Communicating with stakeholders
+- [x] Data structures & Algorithms
+- [x] Software engineering & Database
+- [x] Security
 
 ## Code Review
 Original Artifacts:
@@ -14,7 +19,9 @@ The above artifacts are the ones detailed in the code review video.
 The associated narrative for this enhancement can be found [here](https://github.com/Nsilvestro/Nsilvestro.github.io/blob/main/Enhancement%20Narratives/CS-499%20Enhancement%20One%20Narrative.pdf)
 ### Algorithms & Data Structures
 * [Course Planner Enhancement One](https://github.com/Nsilvestro/Nsilvestro.github.io/tree/main/Artifact%20Two%20Enhancement%20One/CoursePlannerEnhancement.1)
+
 The associated narrative for this enhancement can be found [here](https://github.com/Nsilvestro/Nsilvestro.github.io/blob/main/Enhancement%20Narratives/CS-499%20Enhancement%20Three%20Narrative.pdf)
 ### Databases
 * [Course Planner Enhancement Two](https://github.com/Nsilvestro/Nsilvestro.github.io/tree/main/Artifact%20Two%20Enhancement%20Two/CoursePlannerEnhancement.2)
+
 The associated narrative for this enhancement can be found [here](https://github.com/Nsilvestro/Nsilvestro.github.io/blob/main/Enhancement%20Narratives/CS-499%20Enhancement%20Two%20Narrative.pdf)
