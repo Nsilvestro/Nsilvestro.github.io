@@ -14,18 +14,18 @@ Original Artifacts:
 
 Included in the portfolio is a recorded code review. The review for each artifact includes a walkthrough of existing functionality, an analysis of the code, as well as identification of areas for enhancements. The artifacts listed above are the ones detailed in the code review video.
 
-A transcript of the video review can be found [here.]()
+A transcript of the video review can be found [here.](Code Review Script.pdf)
 ## Enhancements
 Narratives are included for each category of enhancment. The narratives focus on a description of each artifact, a justification on the inclusion of each artifact, and a reflection on the enhancement process. 
 ### Software Design & Engineering
 * [Embedded Smart Thermostat Enhancement](https://github.com/Nsilvestro/Nsilvestro.github.io/tree/main/Artifact%20One%20Enhancement/gpiointerrupt_CC3220SF_LAUNCHXL_nortos_gcc)
 
-The associated narrative for this enhancement can be found [here](https://github.com/Nsilvestro/Nsilvestro.github.io/blob/main/Enhancement%20Narratives/CS-499%20Enhancement%20One%20Narrative.pdf)
+The associated narrative for this enhancement can be found [here.](https://github.com/Nsilvestro/Nsilvestro.github.io/blob/main/Enhancement%20Narratives/CS-499%20Enhancement%20One%20Narrative.pdf)
 ### Algorithms & Data Structures
 * [Course Planner Enhancement One](https://github.com/Nsilvestro/Nsilvestro.github.io/tree/main/Artifact%20Two%20Enhancement%20One/CoursePlannerEnhancement.1)
 
-The associated narrative for this enhancement can be found [here](https://github.com/Nsilvestro/Nsilvestro.github.io/blob/main/Enhancement%20Narratives/CS-499%20Enhancement%20Three%20Narrative.pdf)
+The associated narrative for this enhancement can be found [here.](https://github.com/Nsilvestro/Nsilvestro.github.io/blob/main/Enhancement%20Narratives/CS-499%20Enhancement%20Three%20Narrative.pdf)
 ### Databases
 * [Course Planner Enhancement Two](https://github.com/Nsilvestro/Nsilvestro.github.io/tree/main/Artifact%20Two%20Enhancement%20Two/CoursePlannerEnhancement.2)
 
-The associated narrative for this enhancement can be found [here](https://github.com/Nsilvestro/Nsilvestro.github.io/blob/main/Enhancement%20Narratives/CS-499%20Enhancement%20Two%20Narrative.pdf)
+The associated narrative for this enhancement can be found [here.](https://github.com/Nsilvestro/Nsilvestro.github.io/blob/main/Enhancement%20Narratives/CS-499%20Enhancement%20Two%20Narrative.pdf)
