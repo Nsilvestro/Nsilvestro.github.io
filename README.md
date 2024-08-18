@@ -16,6 +16,7 @@ Original Artifacts:
 Included in the portfolio is a recorded code review. The review for each artifact includes a walkthrough of existing functionality, an analysis of the code, as well as identification of areas for enhancements. The artifacts listed above are the ones detailed in the code review video.
 
 A transcript of the video review can be found [here.](Code Review Script.pdf)
+
 ## Enhancements
 Narratives are included for each category of enhancment. The narratives focus on a description of each artifact, a justification on the inclusion of each artifact, and a reflection on the enhancement process. 
 ### Software Design & Engineering
